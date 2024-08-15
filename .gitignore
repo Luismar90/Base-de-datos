@@ -1,0 +1,12 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de configuración del editor
+.vscode/
+
+# Ignorar archivos temporales
+*.log
+
+# Ignorar otros archivos y directorios específicos
+porject-oneline/
+project-war/
